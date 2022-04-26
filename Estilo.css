@@ -1,0 +1,19 @@
+body {
+       background: 
+       margin: 45;
+       padding: 45;
+}
+
+table, tr, td {  
+
+                text-align: center;
+                padding: 10px 50px 20px;
+		border-spacing: 8px 25px;
+                border: 8px solid black;
+
+}
+
+#just {
+          text-align: justify;
+
+}
