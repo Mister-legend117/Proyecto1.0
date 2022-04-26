@@ -1,15 +1,17 @@
 body {
-       background: 
-       margin: 45;
-       padding: 45;
+       background-image: url("https://www.xtrafondos.com/descargar.php?id=3313&resolucion=3840x2160"); 
+       margin: 49;
+       padding: 49;
+       color: white; 
 }
 
 table, tr, td {  
-
+                background: #38E0BF;
+		color: black; 
                 text-align: center;
-                padding: 10px 50px 20px;
+                padding: 9px 45px 15px;
 		border-spacing: 8px 25px;
-                border: 8px solid black;
+                border: 8px solid gray;
 
 }
 
