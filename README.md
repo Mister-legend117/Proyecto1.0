@@ -1,8 +1,7 @@
 # Proyecto1.0
-Esto es lo que llevamos en general en el proyecto 
+Este es nuestro Proyecto Final de Introducción a la Ingeniería en Informática y Sistemas
 
 # Miembros del Equipo:
-
 
 * Iris Ivette Perez pastora - 1583822
 * Vieri jacob de Leon Sosa - 1517122
